@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maria
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 <h3 align="center">I am a second year Computer Science student at ITMO University <br> St. Petersburg, Russia</h4>
 
 <div id="header" align="center">
