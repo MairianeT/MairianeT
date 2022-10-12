@@ -25,9 +25,9 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=MairianeT&repo=ITMO-IS-tech-4-sem&show_icons=true&theme=dark )](https://github.com/MairianeT/ITMO-IS-tech-4-sem)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=MairianeT&repo=ITMO-IS-oop-3-sem&show_icons=true&theme=dark )](https://github.com/MairianeT/ITMO-IS-oop-3-sem)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=MairianeT&repo=VolZenit-Web&show_icons=true&theme=dark )](https://github.com/MairianeT/VolZenit-Web)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=MairianeT&repo=ITMO-IS-programming-2-sem&show_icons=true&theme=dark )](https://github.com/MairianeT/ITMO-IS-programming-2-sem)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=MairianeT&repo=ITMO-IS-AppliedMath-4-sem&show_icons=true&theme=dark )](https://github.com/MairianeT/ITMO-IS-AppliedMath-4-sem)
-  
+ 
 </div>
 <br>
 <br>
