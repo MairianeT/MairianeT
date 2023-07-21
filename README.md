@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Maria
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
-<h3 align="center">I am a third year Informational Systems & Technologies student at ITMO University <br> St. Petersburg, Russia</h4>
+<h3 align="center">I am a fourth year Informational Systems & Technologies student at ITMO University <br> St. Petersburg, Russia</h4>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" width="200"/>
